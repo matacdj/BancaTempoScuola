@@ -1,4 +1,4 @@
 # BancaTempoScuola
 
-###Progetto arealab
+### Progetto arealab
 Accordini - Lovato - Tomelleri - Bortolameazzi
